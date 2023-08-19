@@ -1,0 +1,1 @@
+/home/oscar/.emacs.d/elpaca/repos/haskell-mode/w3m-haddock.el

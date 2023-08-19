@@ -1,0 +1,1 @@
+/home/oscar/.emacs.d/elpaca/repos/evil-collection/evil-collection.el

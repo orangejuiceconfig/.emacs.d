@@ -1,0 +1,1 @@
+("~/" "~/.config/awesome/" "~/.emacs.d/elpa/pdf-tools-1.1.0/")

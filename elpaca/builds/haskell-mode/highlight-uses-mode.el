@@ -1,0 +1,1 @@
+/home/oscar/.emacs.d/elpaca/repos/haskell-mode/highlight-uses-mode.el

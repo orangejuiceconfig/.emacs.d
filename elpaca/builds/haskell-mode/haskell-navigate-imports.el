@@ -1,0 +1,1 @@
+/home/oscar/.emacs.d/elpaca/repos/haskell-mode/haskell-navigate-imports.el
